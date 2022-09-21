@@ -1,0 +1,51 @@
+* Hello World
+  PROGRAM:  
+ 
+     print("Hello World")
+* Hello World with new line
+  PROGRAM:
+ 
+     print("Hello World\nHello World")
+     * Integer input
+ PROGRAM:
+ 
+     a=int(input())
+     print(a)
+     * float input
+ PROGRAM:
+ 
+      a=float(input())
+      print(a)
+ 
+* character input
+  PROGRAM:
+   
+       a=input()
+       print(a)
+       
+*string input
+ PROGRAM:
+ 
+      a=str(input())
+      print(a)
+     
+ *ASCII _ 1    
+  PROGRAM:
+   
+       a=int(input())
+       print(chr(a))
+       
+ * ASCII _ 2
+    PROGRAM:
+     
+         a=input()
+         print(ord(a)
+
+	 
+	
+  				
+				
+
+				
+				
+				
